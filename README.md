@@ -1,1 +1,1 @@
-# SpecyDetector
+# SpeciesDetector
